@@ -1,4 +1,4 @@
-# This is my emacs config
+# This is my simple emacs config
 ## Packages installed
 - evil-mode
 - magit
