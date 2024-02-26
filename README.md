@@ -3,3 +3,4 @@
 - evil-mode
 - magit
 - zenburn-theme
+- go-mode
