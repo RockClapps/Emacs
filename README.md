@@ -2,5 +2,4 @@
 ## Packages installed
 - evil-mode
 - magit
-- zenburn-theme
-- go-mode
+- monokai

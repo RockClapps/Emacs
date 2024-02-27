@@ -4,12 +4,12 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(auto-save-default nil)
- '(custom-enabled-themes '(zenburn))
+ '(custom-enabled-themes '(monokai))
  '(custom-safe-themes
-   '("f366d4bc6d14dcac2963d45df51956b2409a15b770ec2f6d730e73ce0ca5c8a7" default))
+   '("95b0bc7b8687101335ebbf770828b641f2befdcf6d3c192243a251ce72ab1692" default))
  '(indent-tabs-mode nil)
  '(initial-buffer-choice t)
- '(package-selected-packages '(zenburn-theme magit evil))
+ '(package-selected-packages '(monokai-theme magit evil))
  '(savehist-mode t)
  '(standard-indent 2)
  '(tab-always-indent t)
